@@ -7,11 +7,11 @@ The school board has contacted Maria to anlyze the reading and math scores of st
 # Results
 * How is the district summary affected?
 
-With a cutoff of 70% for a passing score, 75% of the students passed math and 85.8% or the students passed reading prior to removing 9th graders from Thomas High School. Once removed, the passing rates of students declined in both math and reading, with 74.8% and 85.7%, respectively, passing each each. Below are images from the analysis
+  With a cutoff of 70% for a passing score, 75% of the students passed math and 85.8% or the students passed reading prior to removing 9th graders from Thomas High School. Once removed, the passing rates of students declined in both math and reading, with 74.8% and 85.7%, respectively, passing each each. Below are images from the analysis
 
-Old District Analysis
+**Old District Analysis
 <img src="https://github.com/jratliff1215/School_District_Analysis/blob/main/School_District_Analysis/Resources/Old%20District%20Summary%202.PNG" width="1300" height="80">
 
 
-New District Analysis
+**New District Analysis
 <img src="https://github.com/jratliff1215/School_District_Analysis/blob/main/School_District_Analysis/Resources/New%20District%20Summary.PNG" width="1300" height="80">
