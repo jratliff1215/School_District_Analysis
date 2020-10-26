@@ -9,9 +9,20 @@ The school board has contacted Maria to anlyze the reading and math scores of st
 
   With a cutoff of 70% for a passing score, 75% of the students passed math and 85.8% or the students passed reading prior to removing 9th graders from Thomas High School. Once removed, the passing rates of students declined in both math and reading, with 74.8% and 85.7%, respectively, passing each each. Below are images from the analysis
 
-**Old District Analysis
+**Old District Analysis**
 <img src="https://github.com/jratliff1215/School_District_Analysis/blob/main/School_District_Analysis/Resources/Old%20District%20Summary%202.PNG" width="1300" height="80">
 
 
-**New District Analysis
+**New District Analysis**
 <img src="https://github.com/jratliff1215/School_District_Analysis/blob/main/School_District_Analysis/Resources/New%20District%20Summary.PNG" width="1300" height="80">
+
+
+* How is the school summary affected?
+
+  After removal of the 9th grade students, Thomas High School decreased their overall passing rate from 90.5% to 65.1%, a decline of 28.1% in passing rates. Both subjects of math and reading declined in passing. No other school was impacted by the removal of the students from Thomas High School. The subject school is located third from the bottom of each chart.
+  
+  **Old School Analysis**
+  <img src="https://github.com/jratliff1215/School_District_Analysis/blob/main/School_District_Analysis/Resources/Old%20School%20Summary.PNG" width="2000" height="800">
+  
+  **New School Analysis**
+  <img src="https://github.com/jratliff1215/School_District_Analysis/blob/main/School_District_Analysis/Resources/New%20School%20Summary.PNG" width="2000" height="800">
